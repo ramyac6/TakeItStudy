@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="take_it_study-4474be" version="0.0.0">
+ <names>
+  <name lang="en_US">TakeItStudy</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="_Wide">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="_High">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="_Low">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="__rest">
+   <nature>solitary</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="_Direct">
+   <nature>solitary</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
